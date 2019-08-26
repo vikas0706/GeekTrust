@@ -5,7 +5,7 @@ import com.geektrust.project.Constant.Constant;
 import com.geektrust.project.Exception.ChildAdditionFailedException;
 import com.geektrust.project.Exception.InvalidInputException;
 import com.geektrust.project.Exception.MemberNotFoundException;
-import com.geektrust.project.Family.Member.Member;
+import com.geektrust.project.Member.Member;
 
 import java.util.HashMap;
 import java.util.Map;

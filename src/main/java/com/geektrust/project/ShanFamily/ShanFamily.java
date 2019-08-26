@@ -3,7 +3,7 @@ package com.geektrust.project.ShanFamily;
 import com.geektrust.project.Constant.Constant;
 import com.geektrust.project.Exception.ChildAdditionFailedException;
 import com.geektrust.project.Family.Family;
-import com.geektrust.project.Family.Member.Member;
+import com.geektrust.project.Member.Member;
 import com.geektrust.project.Relation.Relation;
 
 public class ShanFamily {

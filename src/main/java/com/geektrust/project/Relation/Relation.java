@@ -2,7 +2,7 @@ package com.geektrust.project.Relation;
 
 import com.geektrust.project.Exception.MemberNotFoundException;
 import com.geektrust.project.Family.Family;
-import com.geektrust.project.Family.Member.Member;
+import com.geektrust.project.Member.Member;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
